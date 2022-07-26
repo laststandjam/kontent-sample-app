@@ -262,12 +262,21 @@ Would you like to become a hero too? Pick an [issue](https://github.com/Kentico/
         - restart server
     - FIXED
 5. Create new Content- Article
-6. Fill in componets
+6. Fill in Elements
 7. add Assest
 8. Publish
     - ROAD BLOCK
       - White screen on article page
       - check error
-      ![Alt Text](road_blocks/metadata.png "unefined metadata")
+      ![Alt Text](road_blocks/metadata.png "undefined metadata")
       - Find and add metadata
 9. Republish
+10. Success
+    - ![Alt Text ](road_blocks/success.png "finished article")
+
+## Things I learned
+
+- Had some bad assumptions on naming and heircarchy spefically had componets above items
+- How to req from client side with type filter and other params
+- General user side workflow
+- Variants are very cool concept

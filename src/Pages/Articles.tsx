@@ -29,7 +29,7 @@ const Articles: React.FC = () => {
     if (language) {
       query.languageParameter(language);
     }
-
+    console.log(query)
     query.toPromise().then((response) => {
       const currentLanguage = language || defaultLanguage;
 
