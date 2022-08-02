@@ -274,7 +274,7 @@ Would you like to become a hero too? Pick an [issue](https://github.com/Kentico/
 10. Success
     - ![Alt Text ](road_blocks/success.png "finished article")
 
-## Things I learned
+## Things I've learned
 
 - Had some bad assumptions on naming and heircarchy spefically had componets above items
 - How to req from client side with type filter and other params
